@@ -1,1 +1,1 @@
-# RAG-with-LLAMA-2---Langchain
+# Implementation of RAG with LLAMA-2 and LangChain
